@@ -1,0 +1,1 @@
+import"./react-vendor-7CWHa2Oc.js";import{P as e}from"./vendor-C8Jb1BSJ.js";export{e as PhFunnelSimple};
